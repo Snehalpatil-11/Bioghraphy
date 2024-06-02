@@ -1,0 +1,46 @@
+
+        /* Add your CSS styling here */
+        body {
+            border: solid 4px;
+            border-color: rgb(15, 15, 15);
+            font-family: Arial;
+            background-color:#beb5b5;
+           }
+
+        h1 {
+            text-align: center;
+            background-color:rgb(67, 71, 71);
+            color: #fcfafa;
+           }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-left:160vh;
+            border:solid 5px;
+           }
+         
+        a {
+              color: rgb(53, 98, 182);
+          }
+          
+
+        p {
+            line-height: 1.5;
+          }
+        
+        img {
+            max-width: 50%;
+            margin: left 80%;
+            }
+
+
+        h2{
+            font-family: 'Courier New'; background-color:rgb(87, 94, 95);
+          }
+
+          h3{
+            font-size: 19px;
+            color: black;
+            margin-left:822px;
+            }         
